@@ -10,3 +10,5 @@ pywhatkit==3.9
 newsapi_python==0.2.6
 clipboard==0.0.4
 newsapi==0.1.1
+psutil==5.9.5
+PyAudio==0.2.13
